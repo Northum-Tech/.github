@@ -2,7 +2,7 @@
 
 # 🌟 Northum Tech Academia Ventures 🌟
 
-<img src="https://olpmonitor.com/static/images/logo.webp" alt="Northum Tech Logo" width="150" style="border-radius: 50; border: 2 solid #ccc;" />
+<img src="../logo.png" width="150" style="border-radius: 50; border: 2 solid #ccc;" />
 
 </div>
 
