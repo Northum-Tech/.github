@@ -20,7 +20,7 @@
 <div align="center">
 
 ### 💌 **Let’s Connect and Build the Future Together!** 💌  
-[🌐 Visit Our Website](https://olpmonitor.com) 
+[Talk to us](mailto:support@olpmonitor.com) 
 
 </div>
 
